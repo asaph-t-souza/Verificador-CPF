@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Leder\\Documents\\GitHub\\Aula_11\\Aula 11\\Aula 11.jar"
+        ],
+        "exclude": [
+            "lib/Aula 11.jar"
+        ]
+    }
+}
